@@ -1,0 +1,88 @@
+﻿using System;
+using System.Collections.Generic;
+<<<<<<< HEAD
+using System.Data;
+=======
+>>>>>>> origin
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Data;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
+using System.Windows.Shapes;
+<<<<<<< HEAD
+using BobSquad.Services;
+=======
+>>>>>>> origin
+
+namespace BobSquad
+{
+    /// <summary>
+    /// Interaction logic for Equipement.xaml
+    /// </summary>
+    public partial class EquipmentCategories : Page
+    {
+<<<<<<< HEAD
+        private DataTable _equipmentCategoriesTable;
+        public EquipmentCategories()
+        {
+            InitializeComponent();
+            _equipmentCategoriesTable = DB.RunSelectCommand("select * from EquipmentTypes");
+        }
+
+        private void btnCat_Click(object sender, RoutedEventArgs e)
+        {
+            Button selectedType = (Button)sender;
+            int typeId = int.Parse(selectedType.Tag.ToString());
+       
+            this.NavigationService?.Navigate(new EquipmentPage(typeId));
+        }
+
+        private void Page_Loaded(object sender, RoutedEventArgs e)
+        {
+            int rowIndex = 0;
+            int colIndex = 0;
+            foreach (DataRow category in _equipmentCategoriesTable.Rows)
+            {
+                CreateTypeButtons(category, rowIndex, colIndex);
+
+                if (colIndex == 2 && rowIndex == 0)
+                {
+                    colIndex = 0;
+                    rowIndex++;
+                }
+                else if (colIndex < 2)
+                {
+                    colIndex++;
+                }
+                else if (colIndex == 2 && rowIndex == 1)
+                {
+                    return;
+                }
+            }
+        }
+
+        private void CreateTypeButtons(DataRow category, int rowIndex, int colIndex)
+        {
+            Button btnCat = new Button();
+            btnCat.Content = category["Name"].ToString();
+            btnCat.Tag = category["Id"];
+            btnCat.Click += btnCat_Click;
+
+            Grid.SetRow(btnCat, rowIndex);
+            Grid.SetColumn(btnCat, colIndex);
+            grid.Children.Add(btnCat);
+=======
+        public EquipmentCategories()
+        {
+            InitializeComponent();
+>>>>>>> origin
+        }
+    }
+}
