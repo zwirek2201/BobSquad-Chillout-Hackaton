@@ -1,0 +1,47 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BobSquad"
+        xmlns:dxm="http://schemas.devexpress.com/winfx/2008/xaml/map" x:Class="BobSquad.MainWindow"
+        mc:Ignorable="d"
+<<<<<<< HEAD
+        Title="MainWindow" Height="350" Width="525">
+    <Grid/>
+=======
+        Title="Booking system" WindowState="Maximized">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="0.5*"/>
+            <ColumnDefinition Width="7*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel x:Name="Menu" Width="100" Background="LightBlue" Grid.Column="0">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Button Grid.Row="0" Content="Samochody" Name="btnCars" Margin="5" FontSize="14" FontWeight="Bold" Background="SkyBlue"/>
+            <Button Grid.Row="1" Content="Sale" Name="btnRooms" Margin="5" FontSize="14" FontWeight="Bold" Background="SkyBlue"/>
+            <Button Grid.Row="2" Content="Sprzęt" Name="btnDevices" Margin="5" FontSize="14" FontWeight="Bold" Background="SkyBlue" Click="btnDevices_Click"/>
+            <Button Grid.Row="3" Content="Paring" Name="btnCarPark" Margin="5" FontSize="14" FontWeight="Bold" Background="SkyBlue"/>
+            <Button Grid.Row="4" Content="Kuchnia" Name="btnKitchen" Margin="5" FontSize="14" FontWeight="Bold" Background="SkyBlue"/>
+            <Button Grid.Row="5" Content="WC" Name="btnWC" Margin="5" FontSize="14" FontWeight="Bold" Background="SkyBlue"/>
+                </Grid>
+        </StackPanel>
+        <Grid Grid.Column="1" Background="LightGray">
+            <Button Content="Expand/Collapse" Click="Button_Click" Margin="0,0,0,100"/>
+        </Grid>
+       <Frame Grid.Column="2" x:Name="MainFrame" Margin="5"/>
+    </Grid>
+>>>>>>> urbix_kodzi
+</Window>

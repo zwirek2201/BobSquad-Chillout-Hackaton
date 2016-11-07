@@ -1,0 +1,416 @@
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\BobSquad.exe.config
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\BobSquad.exe
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\BobSquad.pdb
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\Google.Apis.Core.dll
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\Google.Apis.dll
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\Google.Apis.PlatformServices.dll
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\log4net.dll
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\Newtonsoft.Json.dll
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\Zlib.Portable.dll
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\Google.Apis.pdb
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\Google.Apis.xml
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\Google.Apis.Core.pdb
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\Google.Apis.Core.xml
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\Google.Apis.PlatformServices.pdb
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\Google.Apis.PlatformServices.xml
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\log4net.xml
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\Newtonsoft.Json.xml
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\Zlib.Portable.xml
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\obj\Debug\BobSquad.csprojResolveAssemblyReference.cache
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\obj\Debug\MainWindow.g.cs
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\obj\Debug\App.g.cs
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\obj\Debug\BobSquad_MarkupCompile.cache
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\obj\Debug\BobSquad_MarkupCompile.lref
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\obj\Debug\MainWindow.baml
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\obj\Debug\BobSquad.g.resources
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\obj\Debug\BobSquad.Properties.Resources.resources
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\obj\Debug\BobSquad.csproj.GenerateResource.Cache
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\obj\Debug\BobSquad.exe
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\obj\Debug\BobSquad.pdb
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\DevExpress.Data.v14.1.dll
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\DevExpress.Map.v14.1.Core.dll
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\DevExpress.Mvvm.v14.1.dll
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\DevExpress.Xpf.Core.v14.1.dll
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\DevExpress.Xpf.Map.v14.1.dll
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\DevExpress.Printing.v14.1.Core.dll
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\DevExpress.Data.v14.1.xml
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\DevExpress.Map.v14.1.Core.xml
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\DevExpress.Mvvm.v14.1.xml
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\DevExpress.Xpf.Core.v14.1.xml
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\DevExpress.Xpf.Map.v14.1.xml
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\DevExpress.Printing.v14.1.Core.xml
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\de\DevExpress.Data.v14.1.resources.dll
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\es\DevExpress.Data.v14.1.resources.dll
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\ja\DevExpress.Data.v14.1.resources.dll
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\ru\DevExpress.Data.v14.1.resources.dll
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\de\DevExpress.Map.v14.1.Core.resources.dll
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\es\DevExpress.Map.v14.1.Core.resources.dll
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\ja\DevExpress.Map.v14.1.Core.resources.dll
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\ru\DevExpress.Map.v14.1.Core.resources.dll
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\de\DevExpress.Xpf.Core.v14.1.resources.dll
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\es\DevExpress.Xpf.Core.v14.1.resources.dll
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\ja\DevExpress.Xpf.Core.v14.1.resources.dll
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\ru\DevExpress.Xpf.Core.v14.1.resources.dll
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\de\DevExpress.Printing.v14.1.Core.resources.dll
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\es\DevExpress.Printing.v14.1.Core.resources.dll
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\ja\DevExpress.Printing.v14.1.Core.resources.dll
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\ru\DevExpress.Printing.v14.1.Core.resources.dll
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\obj\Debug\BobSquad.exe.licenses
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\obj\Debug\Room.g.cs
+E:\Marcin\Documents\GitHub\BobSquad-napierdala\BobSquad\BobSquad\obj\Debug\Room.baml
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\BobSquad.exe.config
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\obj\Debug\BobSquad.exe
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\obj\Debug\BobSquad.pdb
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\BobSquad.exe
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\BobSquad.pdb
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\DevExpress.Data.v14.1.dll
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\DevExpress.Map.v14.1.Core.dll
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\DevExpress.Mvvm.v14.1.dll
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\DevExpress.Xpf.Core.v14.1.dll
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\DevExpress.Xpf.Map.v14.1.dll
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\Google.Apis.Core.dll
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\Google.Apis.dll
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\log4net.dll
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\Zlib.Portable.dll
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\DevExpress.Printing.v14.1.Core.dll
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\DevExpress.Data.v14.1.xml
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\DevExpress.Map.v14.1.Core.xml
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\DevExpress.Mvvm.v14.1.xml
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\DevExpress.Xpf.Core.v14.1.xml
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\DevExpress.Xpf.Map.v14.1.xml
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\Google.Apis.pdb
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\Google.Apis.xml
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\Google.Apis.Core.pdb
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\Google.Apis.Core.xml
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\log4net.xml
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\Zlib.Portable.xml
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\DevExpress.Printing.v14.1.Core.xml
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\de\DevExpress.Data.v14.1.resources.dll
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\es\DevExpress.Data.v14.1.resources.dll
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\ja\DevExpress.Data.v14.1.resources.dll
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\ru\DevExpress.Data.v14.1.resources.dll
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\de\DevExpress.Map.v14.1.Core.resources.dll
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\es\DevExpress.Map.v14.1.Core.resources.dll
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\ja\DevExpress.Map.v14.1.Core.resources.dll
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\ru\DevExpress.Map.v14.1.Core.resources.dll
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\de\DevExpress.Xpf.Core.v14.1.resources.dll
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\es\DevExpress.Xpf.Core.v14.1.resources.dll
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\ja\DevExpress.Xpf.Core.v14.1.resources.dll
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\ru\DevExpress.Xpf.Core.v14.1.resources.dll
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\de\DevExpress.Printing.v14.1.Core.resources.dll
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\es\DevExpress.Printing.v14.1.Core.resources.dll
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\ja\DevExpress.Printing.v14.1.Core.resources.dll
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\bin\Debug\ru\DevExpress.Printing.v14.1.Core.resources.dll
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\obj\Debug\BobSquad.csprojResolveAssemblyReference.cache
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\obj\Debug\Equipement.g.cs
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\obj\Debug\MainWindow.g.cs
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\obj\Debug\Room.g.cs
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\obj\Debug\App.g.cs
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\obj\Debug\BobSquad_MarkupCompile.cache
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\obj\Debug\BobSquad_MarkupCompile.lref
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\obj\Debug\Equipement.baml
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\obj\Debug\MainWindow.baml
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\obj\Debug\Room.baml
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\obj\Debug\BobSquad.g.resources
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\obj\Debug\BobSquad.Properties.Resources.resources
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\obj\Debug\BobSquad.csproj.GenerateResource.Cache
+C:\Users\bionanek\Documents\GIT\BobSquad-napierdala\BobSquad\BobSquad\obj\Debug\BobSquad.exe.licenses
+C:\Users\SZYMON\Desktop\OFCIAL BOB SQUAD\Bobiksy\BobSquad\BobSquad\bin\Debug\BobSquad.exe.config
+C:\Users\SZYMON\Desktop\OFCIAL BOB SQUAD\Bobiksy\BobSquad\BobSquad\bin\Debug\BobSquad.exe
+C:\Users\SZYMON\Desktop\OFCIAL BOB SQUAD\Bobiksy\BobSquad\BobSquad\bin\Debug\BobSquad.pdb
+C:\Users\SZYMON\Desktop\OFCIAL BOB SQUAD\Bobiksy\BobSquad\BobSquad\bin\Debug\Google.Apis.Core.dll
+C:\Users\SZYMON\Desktop\OFCIAL BOB SQUAD\Bobiksy\BobSquad\BobSquad\bin\Debug\Google.Apis.dll
+C:\Users\SZYMON\Desktop\OFCIAL BOB SQUAD\Bobiksy\BobSquad\BobSquad\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\SZYMON\Desktop\OFCIAL BOB SQUAD\Bobiksy\BobSquad\BobSquad\bin\Debug\log4net.dll
+C:\Users\SZYMON\Desktop\OFCIAL BOB SQUAD\Bobiksy\BobSquad\BobSquad\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\SZYMON\Desktop\OFCIAL BOB SQUAD\Bobiksy\BobSquad\BobSquad\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SZYMON\Desktop\OFCIAL BOB SQUAD\Bobiksy\BobSquad\BobSquad\bin\Debug\Zlib.Portable.dll
+C:\Users\SZYMON\Desktop\OFCIAL BOB SQUAD\Bobiksy\BobSquad\BobSquad\bin\Debug\Google.Apis.pdb
+C:\Users\SZYMON\Desktop\OFCIAL BOB SQUAD\Bobiksy\BobSquad\BobSquad\bin\Debug\Google.Apis.xml
+C:\Users\SZYMON\Desktop\OFCIAL BOB SQUAD\Bobiksy\BobSquad\BobSquad\bin\Debug\Google.Apis.Core.pdb
+C:\Users\SZYMON\Desktop\OFCIAL BOB SQUAD\Bobiksy\BobSquad\BobSquad\bin\Debug\Google.Apis.Core.xml
+C:\Users\SZYMON\Desktop\OFCIAL BOB SQUAD\Bobiksy\BobSquad\BobSquad\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\SZYMON\Desktop\OFCIAL BOB SQUAD\Bobiksy\BobSquad\BobSquad\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\SZYMON\Desktop\OFCIAL BOB SQUAD\Bobiksy\BobSquad\BobSquad\bin\Debug\log4net.xml
+C:\Users\SZYMON\Desktop\OFCIAL BOB SQUAD\Bobiksy\BobSquad\BobSquad\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\SZYMON\Desktop\OFCIAL BOB SQUAD\Bobiksy\BobSquad\BobSquad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SZYMON\Desktop\OFCIAL BOB SQUAD\Bobiksy\BobSquad\BobSquad\bin\Debug\Zlib.Portable.xml
+C:\Users\SZYMON\Desktop\OFCIAL BOB SQUAD\Bobiksy\BobSquad\BobSquad\obj\Debug\CarPage.g.cs
+C:\Users\SZYMON\Desktop\OFCIAL BOB SQUAD\Bobiksy\BobSquad\BobSquad\obj\Debug\EquipmentCategories.g.cs
+C:\Users\SZYMON\Desktop\OFCIAL BOB SQUAD\Bobiksy\BobSquad\BobSquad\obj\Debug\EquipmentPage.g.cs
+C:\Users\SZYMON\Desktop\OFCIAL BOB SQUAD\Bobiksy\BobSquad\BobSquad\obj\Debug\MainWindow.g.cs
+C:\Users\SZYMON\Desktop\OFCIAL BOB SQUAD\Bobiksy\BobSquad\BobSquad\obj\Debug\Room.g.cs
+C:\Users\SZYMON\Desktop\OFCIAL BOB SQUAD\Bobiksy\BobSquad\BobSquad\obj\Debug\App.g.cs
+C:\Users\SZYMON\Desktop\OFCIAL BOB SQUAD\Bobiksy\BobSquad\BobSquad\obj\Debug\BobSquad_MarkupCompile.cache
+C:\Users\SZYMON\Desktop\OFCIAL BOB SQUAD\Bobiksy\BobSquad\BobSquad\obj\Debug\BobSquad_MarkupCompile.lref
+C:\Users\SZYMON\Desktop\OFCIAL BOB SQUAD\Bobiksy\BobSquad\BobSquad\obj\Debug\CarPage.baml
+C:\Users\SZYMON\Desktop\OFCIAL BOB SQUAD\Bobiksy\BobSquad\BobSquad\obj\Debug\EquipmentCategories.baml
+C:\Users\SZYMON\Desktop\OFCIAL BOB SQUAD\Bobiksy\BobSquad\BobSquad\obj\Debug\EquipmentPage.baml
+C:\Users\SZYMON\Desktop\OFCIAL BOB SQUAD\Bobiksy\BobSquad\BobSquad\obj\Debug\MainWindow.baml
+C:\Users\SZYMON\Desktop\OFCIAL BOB SQUAD\Bobiksy\BobSquad\BobSquad\obj\Debug\Room.baml
+C:\Users\SZYMON\Desktop\OFCIAL BOB SQUAD\Bobiksy\BobSquad\BobSquad\obj\Debug\BobSquad.g.resources
+C:\Users\SZYMON\Desktop\OFCIAL BOB SQUAD\Bobiksy\BobSquad\BobSquad\obj\Debug\BobSquad.Properties.Resources.resources
+C:\Users\SZYMON\Desktop\OFCIAL BOB SQUAD\Bobiksy\BobSquad\BobSquad\obj\Debug\BobSquad.csproj.GenerateResource.Cache
+C:\Users\SZYMON\Desktop\OFCIAL BOB SQUAD\Bobiksy\BobSquad\BobSquad\obj\Debug\BobSquad.exe.licenses
+C:\Users\SZYMON\Desktop\OFCIAL BOB SQUAD\Bobiksy\BobSquad\BobSquad\obj\Debug\BobSquad.exe
+C:\Users\SZYMON\Desktop\OFCIAL BOB SQUAD\Bobiksy\BobSquad\BobSquad\obj\Debug\BobSquad.pdb
+C:\Users\SZYMON\Desktop\OFCIAL BOB SQUAD\Bobiksy\BobSquad\BobSquad\obj\Debug\BobSquad.csprojResolveAssemblyReference.cache
+G:\BobSquad 12-50\BobSquad\bin\Debug\BobSquad.exe.config
+G:\BobSquad 12-50\BobSquad\obj\Debug\BobSquad.exe
+G:\BobSquad 12-50\BobSquad\obj\Debug\BobSquad.pdb
+G:\BobSquad 12-50\BobSquad\obj\Debug\BobSquad.csprojResolveAssemblyReference.cache
+G:\BobSquad 12-50\BobSquad\obj\Debug\CarPage.g.cs
+G:\BobSquad 12-50\BobSquad\obj\Debug\EquipmentCategories.g.cs
+G:\BobSquad 12-50\BobSquad\obj\Debug\EquipmentPage.g.cs
+G:\BobSquad 12-50\BobSquad\obj\Debug\MainWindow.g.cs
+G:\BobSquad 12-50\BobSquad\obj\Debug\Room.g.cs
+G:\BobSquad 12-50\BobSquad\obj\Debug\App.g.cs
+G:\BobSquad 12-50\BobSquad\obj\Debug\BobSquad_MarkupCompile.cache
+G:\BobSquad 12-50\BobSquad\obj\Debug\BobSquad_MarkupCompile.lref
+C:\Users\SZYMON\Desktop\BobSquad 12-50\BobSquad\bin\Debug\BobSquad.exe.config
+C:\Users\SZYMON\Desktop\BobSquad 12-50\BobSquad\obj\Debug\BobSquad.exe
+C:\Users\SZYMON\Desktop\BobSquad 12-50\BobSquad\obj\Debug\BobSquad.pdb
+C:\Users\SZYMON\Desktop\BobSquad 12-50\BobSquad\obj\Debug\BobSquad.csprojResolveAssemblyReference.cache
+C:\Users\SZYMON\Desktop\BobSquad 12-50\BobSquad\obj\Debug\CarPage.g.cs
+C:\Users\SZYMON\Desktop\BobSquad 12-50\BobSquad\obj\Debug\EquipmentCategories.g.cs
+C:\Users\SZYMON\Desktop\BobSquad 12-50\BobSquad\obj\Debug\EquipmentPage.g.cs
+C:\Users\SZYMON\Desktop\BobSquad 12-50\BobSquad\obj\Debug\MainWindow.g.cs
+C:\Users\SZYMON\Desktop\BobSquad 12-50\BobSquad\obj\Debug\Room.g.cs
+C:\Users\SZYMON\Desktop\BobSquad 12-50\BobSquad\obj\Debug\App.g.cs
+C:\Users\SZYMON\Desktop\BobSquad 12-50\BobSquad\obj\Debug\BobSquad_MarkupCompile.cache
+C:\Users\SZYMON\Desktop\BobSquad 12-50\BobSquad\obj\Debug\BobSquad_MarkupCompile.lref
+C:\Users\SZYMON\Desktop\BobSquad 12-50\BobSquad\bin\Debug\BobSquad.exe
+C:\Users\SZYMON\Desktop\BobSquad 12-50\BobSquad\bin\Debug\BobSquad.pdb
+C:\Users\SZYMON\Desktop\BobSquad 12-50\BobSquad\bin\Debug\Google.Apis.Core.dll
+C:\Users\SZYMON\Desktop\BobSquad 12-50\BobSquad\bin\Debug\Google.Apis.dll
+C:\Users\SZYMON\Desktop\BobSquad 12-50\BobSquad\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\SZYMON\Desktop\BobSquad 12-50\BobSquad\bin\Debug\log4net.dll
+C:\Users\SZYMON\Desktop\BobSquad 12-50\BobSquad\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\SZYMON\Desktop\BobSquad 12-50\BobSquad\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SZYMON\Desktop\BobSquad 12-50\BobSquad\bin\Debug\Zlib.Portable.dll
+C:\Users\SZYMON\Desktop\BobSquad 12-50\BobSquad\bin\Debug\Google.Apis.pdb
+C:\Users\SZYMON\Desktop\BobSquad 12-50\BobSquad\bin\Debug\Google.Apis.xml
+C:\Users\SZYMON\Desktop\BobSquad 12-50\BobSquad\bin\Debug\Google.Apis.Core.pdb
+C:\Users\SZYMON\Desktop\BobSquad 12-50\BobSquad\bin\Debug\Google.Apis.Core.xml
+C:\Users\SZYMON\Desktop\BobSquad 12-50\BobSquad\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\SZYMON\Desktop\BobSquad 12-50\BobSquad\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\SZYMON\Desktop\BobSquad 12-50\BobSquad\bin\Debug\log4net.xml
+C:\Users\SZYMON\Desktop\BobSquad 12-50\BobSquad\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\SZYMON\Desktop\BobSquad 12-50\BobSquad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SZYMON\Desktop\BobSquad 12-50\BobSquad\bin\Debug\Zlib.Portable.xml
+C:\Users\SZYMON\Desktop\BobSquad 12-50\BobSquad\obj\Debug\CarPage.baml
+C:\Users\SZYMON\Desktop\BobSquad 12-50\BobSquad\obj\Debug\EquipmentCategories.baml
+C:\Users\SZYMON\Desktop\BobSquad 12-50\BobSquad\obj\Debug\EquipmentPage.baml
+C:\Users\SZYMON\Desktop\BobSquad 12-50\BobSquad\obj\Debug\MainWindow.baml
+C:\Users\SZYMON\Desktop\BobSquad 12-50\BobSquad\obj\Debug\Room.baml
+C:\Users\SZYMON\Desktop\BobSquad 12-50\BobSquad\obj\Debug\BobSquad.g.resources
+C:\Users\SZYMON\Desktop\BobSquad 12-50\BobSquad\obj\Debug\BobSquad.Properties.Resources.resources
+C:\Users\SZYMON\Desktop\BobSquad 12-50\BobSquad\obj\Debug\BobSquad.csproj.GenerateResource.Cache
+C:\Users\SZYMON\Desktop\BobSquad 12-50\BobSquad\obj\Debug\BobSquad.exe.licenses
+C:\Users\SZYMON\Desktop\BobSquad 13-16\BobSquad\bin\Debug\BobSquad.exe.config
+C:\Users\SZYMON\Desktop\BobSquad 13-16\BobSquad\obj\Debug\BobSquad.exe
+C:\Users\SZYMON\Desktop\BobSquad 13-16\BobSquad\obj\Debug\BobSquad.pdb
+C:\Users\SZYMON\Desktop\BobSquad 13-16\BobSquad\bin\Debug\BobSquad.exe
+C:\Users\SZYMON\Desktop\BobSquad 13-16\BobSquad\bin\Debug\BobSquad.pdb
+C:\Users\SZYMON\Desktop\BobSquad 13-16\BobSquad\bin\Debug\Google.Apis.Core.dll
+C:\Users\SZYMON\Desktop\BobSquad 13-16\BobSquad\bin\Debug\Google.Apis.dll
+C:\Users\SZYMON\Desktop\BobSquad 13-16\BobSquad\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\SZYMON\Desktop\BobSquad 13-16\BobSquad\bin\Debug\log4net.dll
+C:\Users\SZYMON\Desktop\BobSquad 13-16\BobSquad\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\SZYMON\Desktop\BobSquad 13-16\BobSquad\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SZYMON\Desktop\BobSquad 13-16\BobSquad\bin\Debug\Zlib.Portable.dll
+C:\Users\SZYMON\Desktop\BobSquad 13-16\BobSquad\bin\Debug\Google.Apis.pdb
+C:\Users\SZYMON\Desktop\BobSquad 13-16\BobSquad\bin\Debug\Google.Apis.xml
+C:\Users\SZYMON\Desktop\BobSquad 13-16\BobSquad\bin\Debug\Google.Apis.Core.pdb
+C:\Users\SZYMON\Desktop\BobSquad 13-16\BobSquad\bin\Debug\Google.Apis.Core.xml
+C:\Users\SZYMON\Desktop\BobSquad 13-16\BobSquad\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\SZYMON\Desktop\BobSquad 13-16\BobSquad\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\SZYMON\Desktop\BobSquad 13-16\BobSquad\bin\Debug\log4net.xml
+C:\Users\SZYMON\Desktop\BobSquad 13-16\BobSquad\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\SZYMON\Desktop\BobSquad 13-16\BobSquad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SZYMON\Desktop\BobSquad 13-16\BobSquad\bin\Debug\Zlib.Portable.xml
+C:\Users\SZYMON\Desktop\BobSquad 13-16\BobSquad\obj\Debug\BobSquad.csprojResolveAssemblyReference.cache
+C:\Users\SZYMON\Desktop\BobSquad 13-16\BobSquad\obj\Debug\CarPage.g.cs
+C:\Users\SZYMON\Desktop\BobSquad 13-16\BobSquad\obj\Debug\EquipmentCategories.g.cs
+C:\Users\SZYMON\Desktop\BobSquad 13-16\BobSquad\obj\Debug\EquipmentPage.g.cs
+C:\Users\SZYMON\Desktop\BobSquad 13-16\BobSquad\obj\Debug\MainWindow.g.cs
+C:\Users\SZYMON\Desktop\BobSquad 13-16\BobSquad\obj\Debug\Room.g.cs
+C:\Users\SZYMON\Desktop\BobSquad 13-16\BobSquad\obj\Debug\App.g.cs
+C:\Users\SZYMON\Desktop\BobSquad 13-16\BobSquad\obj\Debug\BobSquad_MarkupCompile.cache
+C:\Users\SZYMON\Desktop\BobSquad 13-16\BobSquad\obj\Debug\BobSquad_MarkupCompile.lref
+C:\Users\SZYMON\Desktop\BobSquad 13-16\BobSquad\obj\Debug\CarPage.baml
+C:\Users\SZYMON\Desktop\BobSquad 13-16\BobSquad\obj\Debug\EquipmentCategories.baml
+C:\Users\SZYMON\Desktop\BobSquad 13-16\BobSquad\obj\Debug\EquipmentPage.baml
+C:\Users\SZYMON\Desktop\BobSquad 13-16\BobSquad\obj\Debug\MainWindow.baml
+C:\Users\SZYMON\Desktop\BobSquad 13-16\BobSquad\obj\Debug\Room.baml
+C:\Users\SZYMON\Desktop\BobSquad 13-16\BobSquad\obj\Debug\BobSquad.g.resources
+C:\Users\SZYMON\Desktop\BobSquad 13-16\BobSquad\obj\Debug\BobSquad.Properties.Resources.resources
+C:\Users\SZYMON\Desktop\BobSquad 13-16\BobSquad\obj\Debug\BobSquad.csproj.GenerateResource.Cache
+C:\Users\SZYMON\Desktop\BobSquad 13-16\BobSquad\obj\Debug\BobSquad.exe.licenses
+C:\Users\SZYMON\Desktop\BobSquad 13-16 - Copy\BobSquad\bin\Debug\BobSquad.exe.config
+C:\Users\SZYMON\Desktop\BobSquad 13-16 - Copy\BobSquad\obj\Debug\BobSquad.exe
+C:\Users\SZYMON\Desktop\BobSquad 13-16 - Copy\BobSquad\obj\Debug\BobSquad.pdb
+C:\Users\SZYMON\Desktop\BobSquad 13-16 - Copy\BobSquad\obj\Debug\BobSquad.csprojResolveAssemblyReference.cache
+C:\Users\SZYMON\Desktop\BobSquad 13-16 - Copy\BobSquad\obj\Debug\CarPage.g.cs
+C:\Users\SZYMON\Desktop\BobSquad 13-16 - Copy\BobSquad\obj\Debug\EquipmentCategories.g.cs
+C:\Users\SZYMON\Desktop\BobSquad 13-16 - Copy\BobSquad\obj\Debug\EquipmentPage.g.cs
+C:\Users\SZYMON\Desktop\BobSquad 13-16 - Copy\BobSquad\obj\Debug\MainWindow.g.cs
+C:\Users\SZYMON\Desktop\BobSquad 13-16 - Copy\BobSquad\obj\Debug\Room.g.cs
+C:\Users\SZYMON\Desktop\BobSquad 13-16 - Copy\BobSquad\obj\Debug\App.g.cs
+C:\Users\SZYMON\Desktop\BobSquad 13-16 - Copy\BobSquad\obj\Debug\BobSquad_MarkupCompile.cache
+C:\Users\SZYMON\Desktop\BobSquad 13-16 - Copy\BobSquad\obj\Debug\BobSquad_MarkupCompile.lref
+C:\Users\SZYMON\Desktop\BobSquad 13-16 - Copy\BobSquad\bin\Debug\BobSquad.exe
+C:\Users\SZYMON\Desktop\BobSquad 13-16 - Copy\BobSquad\bin\Debug\BobSquad.pdb
+C:\Users\SZYMON\Desktop\BobSquad 13-16 - Copy\BobSquad\bin\Debug\Google.Apis.Core.dll
+C:\Users\SZYMON\Desktop\BobSquad 13-16 - Copy\BobSquad\bin\Debug\Google.Apis.dll
+C:\Users\SZYMON\Desktop\BobSquad 13-16 - Copy\BobSquad\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\SZYMON\Desktop\BobSquad 13-16 - Copy\BobSquad\bin\Debug\log4net.dll
+C:\Users\SZYMON\Desktop\BobSquad 13-16 - Copy\BobSquad\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\SZYMON\Desktop\BobSquad 13-16 - Copy\BobSquad\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SZYMON\Desktop\BobSquad 13-16 - Copy\BobSquad\bin\Debug\Zlib.Portable.dll
+C:\Users\SZYMON\Desktop\BobSquad 13-16 - Copy\BobSquad\bin\Debug\Google.Apis.pdb
+C:\Users\SZYMON\Desktop\BobSquad 13-16 - Copy\BobSquad\bin\Debug\Google.Apis.xml
+C:\Users\SZYMON\Desktop\BobSquad 13-16 - Copy\BobSquad\bin\Debug\Google.Apis.Core.pdb
+C:\Users\SZYMON\Desktop\BobSquad 13-16 - Copy\BobSquad\bin\Debug\Google.Apis.Core.xml
+C:\Users\SZYMON\Desktop\BobSquad 13-16 - Copy\BobSquad\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\SZYMON\Desktop\BobSquad 13-16 - Copy\BobSquad\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\SZYMON\Desktop\BobSquad 13-16 - Copy\BobSquad\bin\Debug\log4net.xml
+C:\Users\SZYMON\Desktop\BobSquad 13-16 - Copy\BobSquad\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\SZYMON\Desktop\BobSquad 13-16 - Copy\BobSquad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SZYMON\Desktop\BobSquad 13-16 - Copy\BobSquad\bin\Debug\Zlib.Portable.xml
+C:\Users\SZYMON\Desktop\BobSquad 13-16 - Copy\BobSquad\obj\Debug\CustomClasses\FloorPage.g.cs
+C:\Users\SZYMON\Desktop\BobSquad 13-16 - Copy\BobSquad\obj\Debug\CarPage.baml
+C:\Users\SZYMON\Desktop\BobSquad 13-16 - Copy\BobSquad\obj\Debug\EquipmentCategories.baml
+C:\Users\SZYMON\Desktop\BobSquad 13-16 - Copy\BobSquad\obj\Debug\EquipmentPage.baml
+C:\Users\SZYMON\Desktop\BobSquad 13-16 - Copy\BobSquad\obj\Debug\MainWindow.baml
+C:\Users\SZYMON\Desktop\BobSquad 13-16 - Copy\BobSquad\obj\Debug\Room.baml
+C:\Users\SZYMON\Desktop\BobSquad 13-16 - Copy\BobSquad\obj\Debug\CustomClasses\FloorPage.baml
+C:\Users\SZYMON\Desktop\BobSquad 13-16 - Copy\BobSquad\obj\Debug\BobSquad.g.resources
+C:\Users\SZYMON\Desktop\BobSquad 13-16 - Copy\BobSquad\obj\Debug\BobSquad.Properties.Resources.resources
+C:\Users\SZYMON\Desktop\BobSquad 13-16 - Copy\BobSquad\obj\Debug\BobSquad.csproj.GenerateResource.Cache
+C:\Users\SZYMON\Desktop\BobSquad 13-16 - Copy\BobSquad\obj\Debug\BobSquad.exe.licenses
+C:\Users\SZYMON\Desktop\BobSquad 14-33\BobSquad\obj\Debug\CarPage.g.cs
+C:\Users\SZYMON\Desktop\BobSquad 14-33\BobSquad\obj\Debug\CustomClasses\FloorPage.g.cs
+C:\Users\SZYMON\Desktop\BobSquad 14-33\BobSquad\obj\Debug\EquipmentCategories.g.cs
+C:\Users\SZYMON\Desktop\BobSquad 14-33\BobSquad\obj\Debug\EquipmentPage.g.cs
+C:\Users\SZYMON\Desktop\BobSquad 14-33\BobSquad\obj\Debug\MainPage.g.cs
+C:\Users\SZYMON\Desktop\BobSquad 14-33\BobSquad\obj\Debug\MainWindow.g.cs
+C:\Users\SZYMON\Desktop\BobSquad 14-33\BobSquad\obj\Debug\Room.g.cs
+C:\Users\SZYMON\Desktop\BobSquad 14-33\BobSquad\obj\Debug\App.g.cs
+C:\Users\SZYMON\Desktop\BobSquad 14-33\BobSquad\obj\Debug\BobSquad_MarkupCompile.cache
+C:\Users\SZYMON\Desktop\BobSquad 14-33\BobSquad\obj\Debug\BobSquad_MarkupCompile.lref
+C:\Users\SZYMON\Desktop\BobSquad 14-33\BobSquad\bin\Debug\BobSquad.exe.config
+C:\Users\SZYMON\Desktop\BobSquad 14-33\BobSquad\bin\Debug\BobSquad.exe
+C:\Users\SZYMON\Desktop\BobSquad 14-33\BobSquad\bin\Debug\BobSquad.pdb
+C:\Users\SZYMON\Desktop\BobSquad 14-33\BobSquad\bin\Debug\Google.Apis.Core.dll
+C:\Users\SZYMON\Desktop\BobSquad 14-33\BobSquad\bin\Debug\Google.Apis.dll
+C:\Users\SZYMON\Desktop\BobSquad 14-33\BobSquad\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\SZYMON\Desktop\BobSquad 14-33\BobSquad\bin\Debug\log4net.dll
+C:\Users\SZYMON\Desktop\BobSquad 14-33\BobSquad\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\SZYMON\Desktop\BobSquad 14-33\BobSquad\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SZYMON\Desktop\BobSquad 14-33\BobSquad\bin\Debug\Zlib.Portable.dll
+C:\Users\SZYMON\Desktop\BobSquad 14-33\BobSquad\bin\Debug\Google.Apis.pdb
+C:\Users\SZYMON\Desktop\BobSquad 14-33\BobSquad\bin\Debug\Google.Apis.xml
+C:\Users\SZYMON\Desktop\BobSquad 14-33\BobSquad\bin\Debug\Google.Apis.Core.pdb
+C:\Users\SZYMON\Desktop\BobSquad 14-33\BobSquad\bin\Debug\Google.Apis.Core.xml
+C:\Users\SZYMON\Desktop\BobSquad 14-33\BobSquad\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\SZYMON\Desktop\BobSquad 14-33\BobSquad\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\SZYMON\Desktop\BobSquad 14-33\BobSquad\bin\Debug\log4net.xml
+C:\Users\SZYMON\Desktop\BobSquad 14-33\BobSquad\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\SZYMON\Desktop\BobSquad 14-33\BobSquad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SZYMON\Desktop\BobSquad 14-33\BobSquad\bin\Debug\Zlib.Portable.xml
+C:\Users\SZYMON\Desktop\BobSquad 14-33\BobSquad\obj\Debug\CarPage.baml
+C:\Users\SZYMON\Desktop\BobSquad 14-33\BobSquad\obj\Debug\CustomClasses\FloorPage.baml
+C:\Users\SZYMON\Desktop\BobSquad 14-33\BobSquad\obj\Debug\EquipmentCategories.baml
+C:\Users\SZYMON\Desktop\BobSquad 14-33\BobSquad\obj\Debug\EquipmentPage.baml
+C:\Users\SZYMON\Desktop\BobSquad 14-33\BobSquad\obj\Debug\MainPage.baml
+C:\Users\SZYMON\Desktop\BobSquad 14-33\BobSquad\obj\Debug\MainWindow.baml
+C:\Users\SZYMON\Desktop\BobSquad 14-33\BobSquad\obj\Debug\Room.baml
+C:\Users\SZYMON\Desktop\BobSquad 14-33\BobSquad\obj\Debug\BobSquad.g.resources
+C:\Users\SZYMON\Desktop\BobSquad 14-33\BobSquad\obj\Debug\BobSquad.Properties.Resources.resources
+C:\Users\SZYMON\Desktop\BobSquad 14-33\BobSquad\obj\Debug\BobSquad.csproj.GenerateResource.Cache
+C:\Users\SZYMON\Desktop\BobSquad 14-33\BobSquad\obj\Debug\BobSquad.exe.licenses
+C:\Users\SZYMON\Desktop\BobSquad 14-33\BobSquad\obj\Debug\BobSquad.exe
+C:\Users\SZYMON\Desktop\BobSquad 14-33\BobSquad\obj\Debug\BobSquad.pdb
+C:\Users\SZYMON\Desktop\BobSquad 14-33\BobSquad\obj\Debug\BobSquad.csprojResolveAssemblyReference.cache
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\bin\Debug\BobSquad.exe.config
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\bin\Debug\BobSquad.exe
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\bin\Debug\BobSquad.pdb
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\bin\Debug\DevExpress.Data.v14.1.dll
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\bin\Debug\DevExpress.Map.v14.1.Core.dll
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\bin\Debug\DevExpress.Mvvm.v14.1.dll
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\bin\Debug\DevExpress.Xpf.Core.v14.1.dll
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\bin\Debug\DevExpress.Xpf.Map.v14.1.dll
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\bin\Debug\Google.Apis.Core.dll
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\bin\Debug\Google.Apis.dll
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\bin\Debug\log4net.dll
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\bin\Debug\Zlib.Portable.dll
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\bin\Debug\DevExpress.Printing.v14.1.Core.dll
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\bin\Debug\DevExpress.Data.v14.1.xml
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\bin\Debug\DevExpress.Map.v14.1.Core.xml
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\bin\Debug\DevExpress.Mvvm.v14.1.xml
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\bin\Debug\DevExpress.Xpf.Core.v14.1.xml
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\bin\Debug\DevExpress.Xpf.Map.v14.1.xml
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\bin\Debug\Google.Apis.pdb
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\bin\Debug\Google.Apis.xml
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\bin\Debug\Google.Apis.Core.pdb
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\bin\Debug\Google.Apis.Core.xml
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\bin\Debug\log4net.xml
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\bin\Debug\Zlib.Portable.xml
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\bin\Debug\DevExpress.Printing.v14.1.Core.xml
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\bin\Debug\de\DevExpress.Data.v14.1.resources.dll
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\bin\Debug\es\DevExpress.Data.v14.1.resources.dll
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\bin\Debug\ja\DevExpress.Data.v14.1.resources.dll
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\bin\Debug\ru\DevExpress.Data.v14.1.resources.dll
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\bin\Debug\de\DevExpress.Map.v14.1.Core.resources.dll
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\bin\Debug\es\DevExpress.Map.v14.1.Core.resources.dll
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\bin\Debug\ja\DevExpress.Map.v14.1.Core.resources.dll
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\bin\Debug\ru\DevExpress.Map.v14.1.Core.resources.dll
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\bin\Debug\de\DevExpress.Xpf.Core.v14.1.resources.dll
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\bin\Debug\es\DevExpress.Xpf.Core.v14.1.resources.dll
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\bin\Debug\ja\DevExpress.Xpf.Core.v14.1.resources.dll
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\bin\Debug\ru\DevExpress.Xpf.Core.v14.1.resources.dll
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\bin\Debug\de\DevExpress.Printing.v14.1.Core.resources.dll
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\bin\Debug\es\DevExpress.Printing.v14.1.Core.resources.dll
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\bin\Debug\ja\DevExpress.Printing.v14.1.Core.resources.dll
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\bin\Debug\ru\DevExpress.Printing.v14.1.Core.resources.dll
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\obj\Debug\BobSquad.csprojResolveAssemblyReference.cache
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\obj\Debug\CarPage.g.cs
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\obj\Debug\CustomClasses\FloorPage.g.cs
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\obj\Debug\EquipmentCategories.g.cs
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\obj\Debug\EquipmentPage.g.cs
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\obj\Debug\MainPage.g.cs
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\obj\Debug\MainWindow.g.cs
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\obj\Debug\Room.g.cs
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\obj\Debug\App.g.cs
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\obj\Debug\BobSquad_MarkupCompile.cache
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\obj\Debug\BobSquad_MarkupCompile.lref
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\obj\Debug\CarPage.baml
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\obj\Debug\CustomClasses\FloorPage.baml
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\obj\Debug\EquipmentCategories.baml
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\obj\Debug\EquipmentPage.baml
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\obj\Debug\MainPage.baml
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\obj\Debug\MainWindow.baml
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\obj\Debug\Room.baml
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\obj\Debug\BobSquad.g.resources
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\obj\Debug\BobSquad.Properties.Resources.resources
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\obj\Debug\BobSquad.csproj.GenerateResource.Cache
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\obj\Debug\BobSquad.exe.licenses
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\obj\Debug\BobSquad.exe
+C:\Users\bionanek\Desktop\BobSquad 15-35\BobSquad\obj\Debug\BobSquad.pdb
